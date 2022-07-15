@@ -1,5 +1,5 @@
-title: test scenario 1
-description: understanding Golang test scenario 1
+title: test scenario docker
+description: understanding docker test scenario 1
 time: 25 minutes
 steps:
   - step1.md
